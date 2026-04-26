@@ -1,0 +1,28 @@
+# --- Python & Jupyter ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.virtualenvs/
+venv/
+ENV/
+
+# --- Colab & OS ---
+.config/
+sample_data/
+.DS_Store
+
+# --- Weights & Biases (WandB) ---
+wandb/
+
+# --- Data & Models ---
+# 데이터셋과 모델 가중치는 용량이 크므로 관리하지 않음
+data/
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# --- Obsidian & Docs ---
+# 옵시디언 사용에 의해 혹시 모를 충돌 방지
+.obsidain/

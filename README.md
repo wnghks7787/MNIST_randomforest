@@ -5,8 +5,18 @@
 >하지만, 완벽하게 모든 내용을 체크하지 못할 수 있으니, 이 점 양해 부탁드립니다.
 
 ## 기술 스택
+### 🛠️ Environment
+![Google Colab|146](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=grey) 
+### 🔤 Language
+![Python|81](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🧩 Framework / Library
+![Keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+### 📊 Experiment Tracking
+![Weights & Biases](https://img.shields.io/badge/weightsandbiases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
+### 🤖 AI Assistant
+![Google Gemini|153](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-![Google Colab|146](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/weightsandbiases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white) ![Keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
 
 
 # Colab과 Github 연결
